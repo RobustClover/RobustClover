@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👨‍🏫교수님 📚과제 그만 내주세요
 
 <!--
 **BrawnyClover/BrawnyClover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
