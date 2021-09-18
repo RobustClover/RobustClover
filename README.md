@@ -1,5 +1,11 @@
 ### 👨‍🏫교수님 📚과제 그만 내주세요
 
+- 🔭 I’m currently working on CCP as a Team leader and in charging of ML part
+- 🌱 I’m currently learning Object detection algorithm using YOLO and DeepFashion2
+- 💬 Do not ask me about anything
+- 📫 How to reach me: 📧sonbill@korea.ac.kr
+- ⚡ Fun fact: 1년간 과제하면서 발생하는 파일의 총량은 대략 1GB정도이다.
+
 <!--
 **BrawnyClover/BrawnyClover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
