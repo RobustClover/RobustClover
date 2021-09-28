@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently working on CCP as a Team leader of Team C.C.Pr and in charging of ML part
 - 🌱 I’m currently learning Object detection algorithm
-- 💬 Do not ask me about anything
+- 💬 Do not ask me about ...
 - 📫 How to reach me: 📧sonbill@korea.ac.kr
-- ⚡ Fun fact: 1년간 과제하면서 발생하는 파일의 총량은 대략 1GB정도이다.
-
+- ⚡ Fun fact: Everyday I got new assignments
 <!--
 **BrawnyClover/BrawnyClover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
