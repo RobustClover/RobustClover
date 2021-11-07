@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Object detection algorithm
 - 💬 Do not ask me about ...
 - 📫 How to reach me: 📧sonbill@korea.ac.kr
-- ⚡ Fun fact: Everyday I got new assignments
+- ⚡ Fun fact: Everyday I get new assignments
 <!--
 **BrawnyClover/BrawnyClover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
