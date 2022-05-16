@@ -1,8 +1,11 @@
 ### 👨‍🏫교수님 📚과제 그만 내주세요
 
-- 🔭 I’m currently working on CCP as a Team leader of Team C.C.Pr and in charge of ML part
-- 🌱 I’m currently learning about Object detection algorithm
-- 💬 Do not ask me about ...
+- 🔭 I’m currently working on Undergraduate student belonging the School of Electrical Engineering, Korea University.
+- 🌱 I’m currently learning about
+-   Computer Architecture
+-   Image Processing
+-   Parallel Computing
+-   Microprocessor and its application
 - 📫 How to reach me: 📧sonbill@korea.ac.kr
 - ⚡ Fun fact: Everyday I get new assignments
 <!--
