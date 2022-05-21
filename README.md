@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on Undergraduate student belonging the School of Electrical Engineering, Korea University.
 - 🌱 I’m currently learning about
--   Computer Architecture
--   Image Processing
--   Parallel Computing
--   Microprocessor and its application
+    * Computer Architecture
+    * Image Processing
+    * Parallel Computing
+    * Microprocessor and its application
 - 📫 How to reach me: 📧sonbill@korea.ac.kr
 - ⚡ Fun fact: Everyday I get new assignments
 <!--
