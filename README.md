@@ -1,6 +1,6 @@
 ### 👨‍🏫교수님 📚과제 그만 내주세요
 
-- 🔭 I’m currently working on Undergraduate student belonging the School of Electrical Engineering, Korea University.
+- 🔭 I am an Undergraduate student, belonging the School of Electrical Engineering, Korea University.
 - 🌱 I’m currently learning about
     * Computer Architecture
     * Image Processing
