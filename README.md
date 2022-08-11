@@ -1,5 +1,9 @@
 ### 👨‍🏫교수님 📚과제 그만 내주세요
 
+# Important
+![https://drive.google.com/file/d/18iibCxW4673dZO7jPpNVeTom3uDVEVDU/view?usp=sharing](https://drive.google.com/file/d/18iibCxW4673dZO7jPpNVeTom3uDVEVDU/view?usp=sharing)
+
+
 - 🔭 I am an Undergraduate student, belonging the School of Electrical Engineering, Korea University.
 - 🌱 I’m currently learning about
     * Computer Architecture
