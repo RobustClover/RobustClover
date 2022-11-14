@@ -11,7 +11,7 @@
 
 #### 👨‍💻 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrawnyClover)](https://github.com/BrawnyClover/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrawnyClover)](https://github.com/anuraghazra/github-readme-stats)
    
 ### 👨‍💻 Technology stacks
 
@@ -25,7 +25,7 @@
    ![Verilog](https://img.shields.io/badge/Verilog-%2300599C.svg?style=for-the-badge&logo=V&logoColor=white)
    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
-#### 🌱 etting to know each other
+#### 🌱 Getting to know each other
 
    ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
