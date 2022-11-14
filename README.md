@@ -5,7 +5,7 @@
    
 - 🔭 I am an Undergraduate student, School of Electrical Engineering, Korea University.
 - 🌱 I’m currently learning about
-    * Computer Architecture
+    * Signal Processing
     * Image Processing
     * Parallel Computing
     * Microprocessor and its application
