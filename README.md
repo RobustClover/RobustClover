@@ -1,6 +1,6 @@
 <div align=center>
    
-## 👨‍🏫교수님 📚과제 그만 내주세요
+## Study without desire spoils the memory, and it retains nothing that it takes in📚
 <div align=left>
    
 - 🔭 I am an Undergraduate student, School of Electrical Engineering, Korea University.
