@@ -53,6 +53,9 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
+![lab_logo](https://github.com/BrawnyClover/BrawnyClover/blob/main/%EA%B7%B8%EB%A6%BC1.png)
+
+
  </div>
 <!--
 **BrawnyClover/BrawnyClover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,5 +71,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-  ![lab_logo](https://github.com/BrawnyClover/BrawnyClover/blob/main/%EA%B7%B8%EB%A6%BC1.png)
