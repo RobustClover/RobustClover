@@ -3,12 +3,10 @@
 ## Study without desire spoils the memory, and it retains nothing that it takes in📚
 <div align=left>
    
-- 🔭 I am an Undergraduate student, School of Electrical Engineering, Korea University.
+- 🔭 I am currently in a master's program at Department of Electrical Engineering, Korea University.
 - 🌱 I’m currently learning about
-    * Signal Processing
-    * Image Processing
-    * Parallel Computing
-    * Microprocessor and its application
+    * Single Image Super Resolution
+    * Efficient Neural Network, including Quantization and Pruning
 - 📫 How to reach me: 📧sonbill@korea.ac.kr
 - ⚡ Fun fact: Everyday I get new assignments
    
